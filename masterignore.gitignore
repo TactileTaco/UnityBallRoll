@@ -1,0 +1,9 @@
+#subbranch files
+#=============================
+
+#ignore file
+develope.gitignore
+
+#sublime settings
+sublime_project.sublime-project
+sublime_project.sublime-workspace
