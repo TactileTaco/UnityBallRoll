@@ -1,0 +1,9 @@
+#subbranch ignores
+#====================
+
+#gitignore
+schooldevignore.gitignore
+masterignore.gitignore
+
+#Portable sublime text
+SublimeText/
